@@ -1,0 +1,2 @@
+invalid type: string "{\"question\": \"æŸ¥æ‰¾å¤šè¾¹å½¢çš„ä¸­å¿ƒç‚¹\", \"sql\": \"SELECT ST_AsText(ST_Centroid(geom)) As centroid\\n                  FROM (SELECT 'Polygon((0 0, 100 0, 100 100, 0 100, 0 0))'::geometry as geom) as subquery;\"}", expected i64.5 30.2)'::geometry as geom) p\\n                  WHERE ST_DWithin(c.geom::geography, p.geom::geography, 500)\\ÿ0UÁñ&º -®…ÏÓñ*½¸
+g

@@ -1,0 +1,2 @@
+invalid type: string "\n             CREATE TABLE roads\n             (\n                 id    SERIAL PRIMARY KEY,\n                 name  VARCHAR(255),\n                 geom  GEOMETRY(LineString, 4326),\n                 width FLOAT\n             );\n             ", expected f64ooleanexpected a booleanphy, b.geom::geography);\"}", expected f64ooleananÜ0Uˇ0ˇ0U1
+êè∂∆ù“DKÄµ¢Ê
